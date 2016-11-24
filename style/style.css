@@ -1,0 +1,45 @@
+td{
+  width: 200px;
+  height: 200px;
+  border: 2px solid black;
+  border-radius: 50px;
+  text-align: center;
+}
+#color{
+  color: blue;
+}
+table{
+  margin: auto;
+  background-color: lightgray;
+  opacity: 0.7;
+  margin-left: auto;
+}
+#vert{
+  background-image: url("../img/numero telephone.jpeg");
+}
+#rouge{
+  background-image: url("../img/urgences.jpg");
+
+}
+body{
+  background-image: url("../img/eevolution.jpg");
+  background-repeat: repeat;
+  background-size: cover;
+}
+#gauche{
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  left : 100px;
+  top: 250px;
+  display: block;
+}
+#droite{
+  width: 100px;
+  height: 100px;
+  margin-top: 0px;
+  position: absolute;
+  right: 100px;
+  top: 250px;
+  display: block;
+}
